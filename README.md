@@ -15,9 +15,10 @@ Execute
 python test_case/python_request.py
 ```
 
+## Practice
 
-### Please help to modified the error in following test case
+#### Please help to fix the error in following test case
 `test_check_id`
 
-### Please help to create the case to check title
+#### Please help to create the case to check title
 `test_check_title`
