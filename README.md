@@ -1,10 +1,13 @@
 # api_test_workshop
 
 ## Ruby
-## ruby test_case/ruby_request.rb
+## You have to execute bundle install first
+### Execute
+### ruby test_case/ruby_request.rb
 
 ## Python
-## python test_case/python_request.py
+### Execute
+### python test_case/python_request.py
 
 
 ## Please help to modified the error in following test case
